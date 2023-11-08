@@ -1,6 +1,6 @@
 function love.load()
     wf = require '/libaries/windfield/windfield'
-    world = wf.newWorld(0, 0)
+    world = wf.newWorld
 end
 
 
